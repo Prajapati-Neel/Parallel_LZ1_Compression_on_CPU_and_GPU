@@ -1,0 +1,1610 @@
+
+0        0        U
+0        0        T  
+0        0        F  
+0        0        -  
+0        0        8  
+0        0           
+0        0        i  
+0        0        s  
+3        1        a  matched-' '
+5        1        v  matched-' '
+3        1        r  matched-'a'
+8        1        a  matched-'i'
+0        0        b  
+0        0        l  
+0        0        e  
+16       1        l  matched-'-'
+3        1        n  matched-'e'
+0        0        g  
+0        0        t  
+0        0        h  
+21       1        c  matched-' '
+3        1        a  matched-'h'
+17       1        a  matched-'r'
+5        1        t  matched-'c'
+16       1        r  matched-'e'
+31       1        e  matched-' '
+16       1        c  matched-'n'
+0        0        o  
+0        0        d  
+36       1        n  matched-'i'
+21       1           matched-'g'
+39       1        t  matched-'s'
+39       1        n  matched-'a'
+9        1        a  matched-'d'
+39       1        d  matched-'r'
+49       1        u  matched-' '
+49       1        e  matched-'s'
+5        2        f  matched-'d '
+21       1        r  matched-'o'
+27       2        l  matched-' e'
+48       1        c  matched-'e'
+44       1        r  matched-'t'
+30       1        n  matched-'o'
+58       1        c  matched-'i'
+48       2        o  matched-' c'
+0        0        m  
+1        1        u  matched-'m'
+9        3        a  matched-'nic'
+60       1        i  matched-'t'
+16       2        .  matched-'on'
+63       1        D  matched-' '
+57       1        f  matched-'e'
+51       2        e  matched-'in'
+43       2        b  matched-'d '
+0        0        y  
+64       1        t  matched-' '
+0        0        h  
+46       1           matched-'e'
+0        0        U  
+35       3        o  matched-'nic'
+60       1        e  matched-'d'
+58       1        S  matched-' '
+46       1        a  matched-'t'
+45       1        d  matched-'n'
+35       1        r  matched-'a'
+62       1        ,  matched-'d'
+22       5        n  matched-' the '
+45       1        m  matched-'a'
+27       2        i  matched-'e '
+0        0        s  
+60       1        d  matched-' '
+45       1        r  matched-'e'
+57       1        v  matched-'i'
+45       3        f  matched-'ed '
+25       1        o  matched-'r'
+17       1           matched-'m'
+43       8        (  matched-'Unicode '
+48       1        r  matched-'o'
+55       4        v  matched-' Uni'
+28       2        s  matched-'er'
+52       1        l  matched-'a'
+57       1        C  matched-' '
+62       3        d  matched-'ode'
+6        2        h  matched-' C'
+60       2        a  matched-'ar'
+30       1        t  matched-'c'
+47       2           matched-'er'
+0        0        S  
+62       1        t  matched-'e'
+0        0        )  
+64       1        T  matched-' '
+13       2        n  matched-'ra'
+62       1        f  matched-'s'
+40       2        m  matched-'or'
+33       1        t  matched-'a'
+64       1        o  matched-'i'
+55       1           matched-'n'
+0        0        F  
+10       5           matched-'ormat'
+0        0        -  
+59       1        8  matched-' '
+3        1        b  matched-'-'
+56       1        t  matched-'i'
+0        0        .  
+0        0        [  
+0        0        1  
+0        0        ]  
+0        0        
+  
+0        0        U  
+35       1        F  matched-'T'
+15       1        8  matched-'-'
+61       1        i  matched-' '
+37       1           matched-'s'
+53       1        a  matched-'c'
+0        0        p  
+59       1        b  matched-'a'
+0        0        l  
+57       1           matched-'e'
+45       1        f  matched-'o'
+59       1        e  matched-' '
+52       1        c  matched-'n'
+51       1        d  matched-'o'
+48       1        n  matched-'i'
+0        0        g  
+63       1        a  matched-' '
+16       1        l  matched-'l'
+52       1        1  matched-' '
+0        0        ,  
+38       1        1  matched-'1'
+0        0        2  
+4        1        0  matched-','
+0        0        6  
+0        0        4  
+46       1        a  matched-'['
+46       1           matched-']'
+0        0        v  
+18       2        i  matched-'al'
+26       1           matched-'d'
+43       1        h  matched-'c'
+44       1        r  matched-'a'
+46       1        c  matched-'a'
+64       1        e  matched-'t'
+5        1           matched-'r'
+40       3        e  matched-'cod'
+61       1        p  matched-' '
+51       1        i  matched-'o'
+49       1        t  matched-'n'
+0        0        s  
+57       1        i  matched-' '
+54       1           matched-'n'
+0        0        U  
+57       1        i  matched-'n'
+18       5        u  matched-'code '
+14       1        i  matched-'s'
+62       3        o  matched-'ng '
+22       1        e  matched-'n'
+62       1        t  matched-' '
+33       1           matched-'o'
+0        0        f  
+36       1        u  matched-'o'
+41       2        o  matched-'r '
+12       2        -  matched-'ne'
+0        0        b  
+0        0        y  
+51       2           matched-'te'
+0        0        (  
+0        0        8  
+8        2        i  matched-'-b'
+59       1        )  matched-'t'
+58       6        u  matched-' code '
+48       2        t  matched-'ni'
+57       1        .  matched-'s'
+58       1        C  matched-' '
+52       4        p  matched-'ode '
+57       1        i  matched-'o'
+62       1        t  matched-'n'
+56       1           matched-'s'
+0        0        w  
+29       2        h  matched-'it'
+64       1        l  matched-' '
+59       1        w  matched-'o'
+59       1        r  matched-'e'
+64       1        n  matched-' '
+56       1        m  matched-'u'
+6        2        i  matched-'er'
+41       1        a  matched-'c'
+14       1           matched-'l'
+0        0        v  
+4        2        u  matched-'al'
+64       1        s  matched-'e'
+0        0        ,  
+29       2        h  matched-' w'
+15       2        h  matched-'ic'
+59       1        t  matched-' '
+57       1        n  matched-'e'
+60       1           matched-'d'
+56       1        o  matched-'t'
+62       1        o  matched-' '
+27       1        c  matched-'c'
+34       1        r  matched-'u'
+61       1        m  matched-' '
+61       1        r  matched-'o'
+61       2        f  matched-'e '
+4        2        q  matched-'re'
+34       2        n  matched-'ue'
+64       1        l  matched-'t'
+0        0        y  
+37       2        a  matched-', '
+16       3        e  matched-'re '
+60       1        c  matched-'n'
+32       1        d  matched-'o'
+61       1        d  matched-'e'
+57       1        u  matched-' '
+53       1        i  matched-'s'
+44       1        g  matched-'n'
+30       2        e  matched-' f'
+57       1        e  matched-'w'
+41       2        b  matched-'r '
+28       1        t  matched-'y'
+57       1        s  matched-'e'
+0        0        .  
+62       1        I  matched-' '
+63       1           matched-'t'
+14       1        a  matched-'w'
+23       1           matched-'s'
+30       2        s  matched-'de'
+27       1        g  matched-'i'
+49       1        e  matched-'n'
+35       2        f  matched-'d '
+64       2           matched-'or'
+27       1        a  matched-'b'
+47       1        k  matched-'c'
+21       2        r  matched-'wa'
+48       2        c  matched-'d '
+54       1        m  matched-'o'
+0        0        p  
+64       1        t  matched-'a'
+52       1        b  matched-'i'
+54       1        l  matched-'i'
+56       1        t  matched-'i'
+47       1           matched-'y'
+54       1        i  matched-'w'
+50       1        h  matched-'t'
+61       1        A  matched-' '
+0        0        S  
+0        0        C  
+51       1        I  matched-'I'
+0        0        :  
+62       1        t  matched-' '
+10       1        e  matched-'h'
+43       2        i  matched-' f'
+43       1        s  matched-'r'
+62       2        1  matched-'t '
+0        0        2  
+0        0        8  
+40       2        h  matched-' c'
+46       2        a  matched-'ar'
+52       1        t  matched-'c'
+63       1        r  matched-'e'
+16       1           matched-'s'
+63       1        f  matched-'o'
+63       1        U  matched-' '
+0        0        n  
+50       1        c  matched-'i'
+57       1        d  matched-'o'
+32       1        ,  matched-'e'
+49       2        h  matched-' w'
+9        2        h  matched-'ic'
+29       2        o  matched-' c'
+39       1        r  matched-'r'
+45       1        s  matched-'e'
+0        0        p  
+25       1        n  matched-'o'
+19       1           matched-'d'
+4        2        e  matched-'on'
+0        0        -  
+58       1        o  matched-'t'
+3        1        o  matched-'-'
+7        2           matched-'ne'
+28       1        i  matched-'w'
+59       1        h  matched-'t'
+60       1        A  matched-' '
+0        0        S  
+0        0        C  
+0        0        I  
+1        1        ,  matched-'I'
+63       1        a  matched-' '
+32       2           matched-'re'
+60       1        n  matched-'e'
+52       4        d  matched-'code'
+64       1        u  matched-' '
+42       1        i  matched-'s'
+63       1        g  matched-'n'
+18       2           matched-' a'
+7        4        l  matched-'sing'
+39       2        b  matched-'e '
+0        0        y  
+48       1        e  matched-'t'
+44       6        t  matched-' with '
+47       1        e  matched-'h'
+21       2        a  matched-' s'
+0        0        m  
+19       3        i  matched-'e b'
+63       1        a  matched-'n'
+49       1        y  matched-'r'
+60       1        v  matched-' '
+54       1        l  matched-'a'
+44       1        e  matched-'u'
+59       2        s  matched-' a'
+62       1        A  matched-' '
+0        0        S  
+0        0        C  
+0        0        I  
+1        1        ,  matched-'I'
+49       2        o  matched-' s'
+35       3        a  matched-' th'
+46       1           matched-'t'
+24       3        i  matched-'val'
+0        0        d  
+21       6           matched-' ASCII'
+60       2        x  matched-'te'
+17       2        i  matched-'t '
+35       2        v  matched-'s '
+20       5        U  matched-'alid '
+0        0        T  
+0        0        F  
+0        0        -  
+0        0        8  
+2        1        e  matched-'-'
+62       1        c  matched-'n'
+42       1        d  matched-'o'
+57       1        d  matched-'e'
+14       2        n  matched-' U'
+39       1        c  matched-'i'
+9        3           matched-'ode'
+51       1        s  matched-'a'
+59       1        w  matched-' '
+39       1        l  matched-'e'
+52       1        .  matched-'l'
+0        0        
+  
+31       5           matched-'UTF-8'
+12       1        a  matched-'w'
+47       2        d  matched-'s '
+55       1        s  matched-'e'
+53       1        g  matched-'i'
+39       1        e  matched-'n'
+50       2        a  matched-'d '
+59       2        a  matched-'s '
+64       1        s  matched-' '
+0        0        u  
+0        0        p  
+52       1        r  matched-'e'
+63       1        o  matched-'i'
+3        1           matched-'r'
+42       1        l  matched-'a'
+0        0        t  
+9        2        n  matched-'er'
+48       1        t  matched-'a'
+56       1        v  matched-'i'
+54       2        t  matched-'e '
+59       1           matched-'o'
+48       4        1  matched-'UTF-'
+0        0        ,  
+33       3        p  matched-' a '
+30       1        o  matched-'r'
+34       1        o  matched-'p'
+54       1        e  matched-'s'
+47       2        v  matched-'d '
+60       1        r  matched-'a'
+56       1        a  matched-'i'
+0        0        b  
+38       1        e  matched-'l'
+23       1        l  matched-'-'
+60       1        n  matched-'e'
+64       1        t  matched-'g'
+0        0        h  
+63       1        e  matched-' '
+45       1        c  matched-'n'
+55       1        d  matched-'o'
+58       1        n  matched-'i'
+11       1           matched-'g'
+0        0        w  
+63       1        t  matched-'i'
+14       2        p  matched-'h '
+30       2        t  matched-'ar'
+31       2        l  matched-'ia'
+59       1        A  matched-' '
+0        0        S  
+0        0        C  
+0        0        I  
+1        1           matched-'I'
+26       2        m  matched-'co'
+17       2        t  matched-'pa'
+47       1        b  matched-'i'
+49       1        l  matched-'i'
+28       2        y  matched-'it'
+33       2        h  matched-' w'
+57       1        c  matched-'i'
+48       2        l  matched-'h '
+64       1        c  matched-'a'
+0        0        k  
+61       1        d  matched-'e'
+55       1        s  matched-' '
+27       2        e  matched-'om'
+60       1        f  matched-' '
+61       1        a  matched-'e'
+52       1        u  matched-'t'
+49       1        e  matched-'r'
+12       1           matched-'s'
+64       2        c  matched-'in'
+52       1        u  matched-'l'
+21       1        i  matched-'d'
+6        1        g  matched-'n'
+24       2        e  matched-' s'
+61       1        f  matched-'l'
+0        0        -  
+29       1        y  matched-'s'
+16       2        h  matched-'nc'
+24       1        o  matched-'r'
+21       1        i  matched-'n'
+0        0        z  
+62       3        o  matched-'ati'
+28       1           matched-'n'
+51       1        n  matched-'a'
+49       2        f  matched-'d '
+41       1        l  matched-'u'
+59       1        y  matched-'l'
+62       1        A  matched-' '
+0        0        S  
+0        0        C  
+0        0        I  
+1        1        -  matched-'I'
+45       1        o  matched-'c'
+61       1        p  matched-'m'
+26       3        b  matched-'ati'
+52       1        e  matched-'l'
+58       1        h  matched-' '
+28       3        l  matched-'and'
+57       4        o  matched-'ing '
+55       1           matched-'f'
+52       2        a  matched-'ch'
+53       1        a  matched-'r'
+57       1        t  matched-'c'
+21       1        r  matched-'e'
+64       1           matched-'s'
+2        1        u  matched-'s'
+13       2           matched-'ch'
+61       1        s  matched-'a'
+8        2        l  matched-' s'
+5        2        h  matched-'as'
+38       1        s  matched-'e'
+0        0        .  
+63       1        K  matched-' '
+43       1        n  matched-'e'
+61       1        T  matched-' '
+45       1        o  matched-'h'
+56       2        s  matched-'mp'
+60       1        n  matched-'o'
+25       2        n  matched-' a'
+52       1           matched-'d'
+0        0        R  
+49       1        b  matched-'o'
+61       1        P  matched-' '
+57       1        k  matched-'i'
+45       1           matched-'e'
+18       1        r  matched-'p'
+59       1        d  matched-'o'
+46       2        e  matched-'uc'
+18       2        t  matched-'d '
+41       2           matched-'he'
+0        0        f  
+18       1        r  matched-'i'
+61       1        t  matched-'s'
+62       1        i  matched-' '
+39       2        l  matched-'mp'
+53       1        m  matched-'e'
+50       2        t  matched-'en'
+61       1        t  matched-'a'
+34       1        o  matched-'i'
+56       2        f  matched-'n '
+55       1        r  matched-'o'
+29       5        P  matched-' the '
+21       1        a  matched-'l'
+60       2        9  matched-'n '
+62       1        o  matched-' '
+50       1        e  matched-'p'
+51       1        a  matched-'r'
+25       2        n  matched-'ti'
+0        0        g  
+64       1        s  matched-' '
+0        0        y  
+45       2        e  matched-'st'
+44       1           matched-'m'
+11       2           matched-'in'
+0        0        S  
+64       1        p  matched-'e'
+10       3        b  matched-'tem'
+25       2           matched-'er'
+0        0        1  
+33       1        9  matched-'9'
+0        0        2  
+0        0        .  
+0        0        [  
+3        1        ]  matched-'2'
+3        1        3  matched-'['
+3        1           matched-']'
+0        0        T  
+53       1        i  matched-'h'
+35       1           matched-'s'
+53       1        e  matched-'l'
+0        0        d  
+62       2        o  matched-' t'
+37       2        t  matched-' i'
+11       2        a  matched-'s '
+10       1        o  matched-'d'
+39       2        i  matched-'pt'
+64       1        n  matched-'o'
+57       1        b  matched-' '
+57       1           matched-'y'
+0        0        X  
+0        0        /  
+0        0        O  
+51       1        e  matched-'p'
+57       2        a  matched-'n '
+33       2        i  matched-'s '
+26       3        s  matched-'ts '
+12       2        c  matched-'pe'
+44       1        f  matched-'i'
+46       1        c  matched-'i'
+34       1        t  matched-'a'
+31       4        f  matched-'ion '
+47       1        r  matched-'o'
+60       1        F  matched-' '
+0        0        S  
+1        1        -  matched-'S'
+0        0        U  
+0        0        T  
+6        1        ,  matched-'F'
+0        0        [  
+0        0        4  
+0        0        ]  
+63       1        w  matched-' '
+0        0        h  
+26       2        h  matched-'ic'
+6        2        o  matched-' w'
+0        0        u  
+0        0        l  
+0        0        d  
+28       2        i  matched-' f'
+28       1        s  matched-'r'
+49       1           matched-'t'
+0        0        b  
+59       1           matched-'e'
+40       1        f  matched-'o'
+48       3        i  matched-'fic'
+64       1        l  matched-'a'
+20       1        y  matched-'l'
+62       1        p  matched-' '
+47       1        e  matched-'r'
+20       1        e  matched-'s'
+55       1        t  matched-'n'
+20       1        d  matched-'e'
+58       1        a  matched-' '
+27       2        U  matched-'t '
+57       1        E  matched-'S'
+0        0        N  
+0        0        I  
+0        0        X  
+64       1        i  matched-' '
+16       1           matched-'n'
+0        0        J  
+29       1        n  matched-'a'
+50       1        a  matched-'u'
+46       1        y  matched-'r'
+63       1        1  matched-' '
+0        0        9  
+1        1        3  matched-'9'
+0        0        [  
+0        0        5  
+0        0        ]  
+29       2        n  matched-' a'
+63       2        s  matched-'d '
+18       1        b  matched-'u'
+43       2        q  matched-'se'
+23       1        e  matched-'u'
+46       2        l  matched-'nt'
+56       2        a  matched-'y '
+49       1        o  matched-'d'
+59       1        t  matched-'p'
+54       3        b  matched-'ed '
+36       2        t  matched-'y '
+0        0        h  
+62       1           matched-'e'
+54       1        n  matched-'I'
+13       2        r  matched-'te'
+55       1        e  matched-'n'
+26       1           matched-'t'
+0        0        E  
+60       1        g  matched-'n'
+63       2        e  matched-'in'
+12       2        i  matched-'er'
+8        2           matched-'ng'
+0        0        T  
+54       1        s  matched-'a'
+0        0        k  
+58       1        F  matched-' '
+40       1        r  matched-'o'
+0        0        c  
+32       2        (  matched-'e '
+33       1        E  matched-'I'
+14       1        F  matched-'T'
+0        0        )  
+54       1        i  matched-' '
+60       1           matched-'n'
+0        0        R  
+17       1        C  matched-'F'
+61       1        2  matched-' '
+1        1        7  matched-'2'
+1        1           matched-'7'
+19       1        B  matched-'('
+9        1        P  matched-'C'
+63       1        1  matched-' '
+0        0        8  
+21       1        [  matched-')'
+0        0        6  
+0        0        ]  
+63       1        f  matched-' '
+37       2           matched-'or'
+4        1        u  matched-'f'
+62       1        u  matched-'t'
+55       1        e  matched-'r'
+35       3        t  matched-' in'
+62       2        n  matched-'er'
+50       1        t  matched-'e'
+62       1        s  matched-' '
+15       1        a  matched-'t'
+46       1        d  matched-'n'
+3        1        r  matched-'a'
+3        1        s  matched-'d'
+61       1        w  matched-' '
+30       2        k  matched-'or'
+0        0        ,  
+60       1        r  matched-' '
+28       1        p  matched-'e'
+0        0        l  
+18       1        c  matched-'a'
+31       2        g  matched-'in'
+63       1        S  matched-' '
+5        3        l  matched-'ing'
+42       2        B  matched-'e '
+0        0        y  
+42       2           matched-'te'
+0        0        C  
+0        0        h  
+35       2        a  matched-'ar'
+22       1        t  matched-'c'
+51       2           matched-'er'
+22       1        e  matched-'S'
+64       1        s  matched-'t'
+53       2        u  matched-' s'
+34       1        h  matched-'c'
+58       1        a  matched-' '
+51       2        L  matched-'s '
+60       1        t  matched-'a'
+42       2        -  matched-'in'
+0        0        1  
+59       1        i  matched-' '
+47       1           matched-'n'
+61       1        l  matched-'o'
+0        0        d  
+30       3        R  matched-'er '
+0        0        F  
+42       1        s  matched-'C'
+0        0        .  
+0        0        
+  
+0        0        U  
+0        0        T  
+7        1        -  matched-'F'
+0        0        8  
+21       2        s  matched-' i'
+60       1        t  matched-' '
+55       1        e  matched-'h'
+64       1        d  matched-' '
+26       1        m  matched-'o'
+36       2        a  matched-'in'
+38       1        t  matched-'n'
+58       1        e  matched-' '
+42       1        c  matched-'n'
+37       1        d  matched-'o'
+47       2        g  matched-'in'
+62       1        f  matched-' '
+44       1        r  matched-'o'
+26       5        W  matched-' the '
+8        2        l  matched-'or'
+53       1           matched-'d'
+6        1        i  matched-'W'
+57       2           matched-'de'
+11       1        e  matched-'W'
+0        0        b  
+60       1        (  matched-' '
+37       2        d  matched-'an'
+53       2        n  matched-' i'
+52       1        e  matched-'t'
+30       1        n  matched-'r'
+54       1        t  matched-'e'
+59       2        e  matched-' t'
+46       1        h  matched-'c'
+55       1        o  matched-'n'
+32       1        o  matched-'l'
+47       1        i  matched-'g'
+56       1        s  matched-'e'
+0        0        )  
+0        0        ,  
+61       1        a  matched-' '
+60       1        c  matched-'c'
+61       1        u  matched-'o'
+28       2        i  matched-'nt'
+63       7        9  matched-'ng for '
+0        0        7  
+0        0        .  
+0        0        8  
+0        0        %  
+59       1        o  matched-' '
+11       1           matched-'f'
+52       1        l  matched-'a'
+35       1           matched-'l'
+0        0        w  
+61       3        p  matched-'eb '
+61       1        g  matched-'a'
+40       2        ,  matched-'es'
+18       2        v  matched-' o'
+62       2           matched-'er'
+29       1        9  matched-'9'
+29       1        0  matched-'.'
+29       5        t  matched-'% of '
+0        0        h  
+60       1           matched-'e'
+51       1        o  matched-'t'
+27       1           matched-'p'
+0        0        1  
+15       1        ,  matched-'0'
+17       1        0  matched-'0'
+19       1           matched-'0'
+36       7        a  matched-'pages, '
+0        0        n  
+0        0        d  
+64       1        u  matched-' '
+21       2        t  matched-'p '
+62       1           matched-'o'
+24       2        0  matched-'10'
+42       4        f  matched-'.0% '
+54       1        r  matched-'o'
+64       1        m  matched-' '
+22       2        y  matched-'an'
+62       1        l  matched-' '
+27       2        g  matched-'an'
+26       1        a  matched-'u'
+37       6        s  matched-'ges, a'
+62       1        o  matched-' '
+24       1           matched-'f'
+0        0        2  
+57       1        2  matched-'0'
+0        0        3  
+34       1        [  matched-'.'
+0        0        7  
+0        0        ]  
+59       1        V  matched-' '
+0        0        i  
+35       1        t  matched-'r'
+26       2        l  matched-'ua'
+33       1        y  matched-'l'
+62       2        l  matched-' a'
+38       1           matched-'l'
+0        0        c  
+59       1        u  matched-'o'
+46       1        t  matched-'n'
+52       1        i  matched-'r'
+40       2           matched-'es'
+54       2        d  matched-'an'
+54       10          matched-' languages'
+0        0        h  
+64       1        v  matched-'a'
+60       1           matched-'e'
+0        0        9  
+0        0        5  
+50       1        0  matched-'.'
+0        0        %  
+61       2        r  matched-' o'
+64       1        m  matched-' '
+4        2        e  matched-'or'
+57       1        u  matched-' '
+36       1        e  matched-'s'
+12       2        f  matched-' o'
+64       1        U  matched-' '
+0        0        T  
+0        0        F  
+0        0        -  
+0        0        8  
+60       1        e  matched-' '
+54       1        c  matched-'n'
+58       1        d  matched-'o'
+55       1        n  matched-'i'
+46       1        s  matched-'g'
+31       2        n  matched-' o'
+59       1        t  matched-' '
+46       1        e  matched-'h'
+63       1        w  matched-' '
+53       1        b  matched-'e'
+45       1        "  matched-'.'
+1        1        U  matched-'"'
+29       5        i  matched-'TF-8 '
+64       2        a  matched-'s '
+61       1        v  matched-' '
+3        1        r  matched-'a'
+32       1        a  matched-'i'
+20       1        l  matched-'b'
+56       1        -  matched-'e'
+3        2        n  matched-'le'
+39       1        t  matched-'g'
+34       1           matched-'h'
+48       1        h  matched-'c'
+17       2        a  matched-'ar'
+53       1        t  matched-'c'
+57       1        r  matched-'e'
+60       9           matched-' encoding'
+61       1        t  matched-'s'
+39       1        n  matched-'a'
+9        1        a  matched-'d'
+39       1        d  matched-'r'
+61       1        u  matched-' '
+49       1        e  matched-'s'
+5        2        f  matched-'d '
+21       1        r  matched-'o'
+27       2        l  matched-' e'
+48       1        c  matched-'e'
+44       1        r  matched-'t'
+30       1        n  matched-'o'
+58       1        c  matched-'i'
+48       2        o  matched-' c'
+0        0        m  
+1        1        u  matched-'m'
+9        3        a  matched-'nic'
+60       1        i  matched-'t'
+16       2        .  matched-'on'
+63       1        D  matched-' '
+57       1        f  matched-'e'
+51       2        e  matched-'in'
+43       2        b  matched-'d '
+0        0        y  
+64       1        t  matched-' '
+0        0        h  
+46       1           matched-'e'
+0        0        U  
+35       3        o  matched-'nic'
+60       1        e  matched-'d'
+58       1        S  matched-' '
+46       1        a  matched-'t'
+45       1        d  matched-'n'
+35       1        r  matched-'a'
+62       1        ,  matched-'d'
+22       5        n  matched-' the '
+45       1        m  matched-'a'
+27       2        i  matched-'e '
+0        0        s  
+60       1        d  matched-' '
+45       1        r  matched-'e'
+57       1        v  matched-'i'
+45       3        f  matched-'ed '
+25       1        o  matched-'r'
+17       1           matched-'m'
+43       8        (  matched-'Unicode '
+48       1        r  matched-'o'
+55       4        v  matched-' Uni'
+28       2        s  matched-'er'
+52       1        l  matched-'a'
+57       1        C  matched-' '
+62       3        d  matched-'ode'
+6        2        h  matched-' C'
+60       2        a  matched-'ar'
+30       1        t  matched-'c'
+47       2           matched-'er'
+0        0        S  
+62       1        t  matched-'e'
+0        0        )  
+64       1        T  matched-' '
+13       2        n  matched-'ra'
+62       1        f  matched-'s'
+40       2        m  matched-'or'
+33       1        t  matched-'a'
+64       1        o  matched-'i'
+55       1           matched-'n'
+0        0        F  
+10       5           matched-'ormat'
+0        0        -  
+59       1        8  matched-' '
+3        1        b  matched-'-'
+56       1        t  matched-'i'
+0        0        .  
+0        0        [  
+0        0        1  
+0        0        ]  
+0        0        
+  
+0        0        U  
+35       1        F  matched-'T'
+15       1        8  matched-'-'
+61       1        i  matched-' '
+37       1           matched-'s'
+53       1        a  matched-'c'
+0        0        p  
+59       1        b  matched-'a'
+0        0        l  
+57       1           matched-'e'
+45       1        f  matched-'o'
+59       1        e  matched-' '
+52       1        c  matched-'n'
+51       1        d  matched-'o'
+48       1        n  matched-'i'
+0        0        g  
+63       1        a  matched-' '
+16       1        l  matched-'l'
+52       1        1  matched-' '
+0        0        ,  
+38       1        1  matched-'1'
+0        0        2  
+4        1        0  matched-','
+0        0        6  
+0        0        4  
+46       1        a  matched-'['
+46       1           matched-']'
+0        0        v  
+18       2        i  matched-'al'
+26       1           matched-'d'
+43       1        h  matched-'c'
+44       1        r  matched-'a'
+46       1        c  matched-'a'
+64       1        e  matched-'t'
+5        1           matched-'r'
+40       3        e  matched-'cod'
+61       1        p  matched-' '
+51       1        i  matched-'o'
+49       1        t  matched-'n'
+0        0        s  
+57       1        i  matched-' '
+54       1           matched-'n'
+0        0        U  
+57       1        i  matched-'n'
+18       5        u  matched-'code '
+14       1        i  matched-'s'
+62       3        o  matched-'ng '
+22       1        e  matched-'n'
+62       1        t  matched-' '
+33       1           matched-'o'
+0        0        f  
+36       1        u  matched-'o'
+41       2        o  matched-'r '
+12       2        -  matched-'ne'
+0        0        b  
+0        0        y  
+51       2           matched-'te'
+0        0        (  
+0        0        8  
+8        2        i  matched-'-b'
+59       1        )  matched-'t'
+58       6        u  matched-' code '
+48       2        t  matched-'ni'
+57       1        .  matched-'s'
+58       1        C  matched-' '
+52       4        p  matched-'ode '
+57       1        i  matched-'o'
+62       1        t  matched-'n'
+56       1           matched-'s'
+0        0        w  
+29       2        h  matched-'it'
+64       1        l  matched-' '
+59       1        w  matched-'o'
+59       1        r  matched-'e'
+64       1        n  matched-' '
+56       1        m  matched-'u'
+6        2        i  matched-'er'
+41       1        a  matched-'c'
+14       1           matched-'l'
+0        0        v  
+4        2        u  matched-'al'
+64       1        s  matched-'e'
+0        0        ,  
+29       2        h  matched-' w'
+15       2        h  matched-'ic'
+59       1        t  matched-' '
+57       1        n  matched-'e'
+60       1           matched-'d'
+56       1        o  matched-'t'
+62       1        o  matched-' '
+27       1        c  matched-'c'
+34       1        r  matched-'u'
+61       1        m  matched-' '
+61       1        r  matched-'o'
+61       2        f  matched-'e '
+4        2        q  matched-'re'
+34       2        n  matched-'ue'
+64       1        l  matched-'t'
+0        0        y  
+37       2        a  matched-', '
+16       3        e  matched-'re '
+60       1        c  matched-'n'
+32       1        d  matched-'o'
+61       1        d  matched-'e'
+57       1        u  matched-' '
+53       1        i  matched-'s'
+44       1        g  matched-'n'
+30       2        e  matched-' f'
+57       1        e  matched-'w'
+41       2        b  matched-'r '
+28       1        t  matched-'y'
+57       1        s  matched-'e'
+0        0        .  
+62       1        I  matched-' '
+63       1           matched-'t'
+14       1        a  matched-'w'
+23       1           matched-'s'
+30       2        s  matched-'de'
+27       1        g  matched-'i'
+49       1        e  matched-'n'
+35       2        f  matched-'d '
+64       2           matched-'or'
+27       1        a  matched-'b'
+47       1        k  matched-'c'
+21       2        r  matched-'wa'
+48       2        c  matched-'d '
+54       1        m  matched-'o'
+0        0        p  
+64       1        t  matched-'a'
+52       1        b  matched-'i'
+54       1        l  matched-'i'
+56       1        t  matched-'i'
+47       1           matched-'y'
+54       1        i  matched-'w'
+50       1        h  matched-'t'
+61       1        A  matched-' '
+0        0        S  
+0        0        C  
+51       1        I  matched-'I'
+0        0        :  
+62       1        t  matched-' '
+10       1        e  matched-'h'
+43       2        i  matched-' f'
+43       1        s  matched-'r'
+62       2        1  matched-'t '
+0        0        2  
+0        0        8  
+40       2        h  matched-' c'
+46       2        a  matched-'ar'
+52       1        t  matched-'c'
+63       1        r  matched-'e'
+16       1           matched-'s'
+63       1        f  matched-'o'
+63       1        U  matched-' '
+0        0        n  
+50       1        c  matched-'i'
+57       1        d  matched-'o'
+32       1        ,  matched-'e'
+49       2        h  matched-' w'
+9        2        h  matched-'ic'
+29       2        o  matched-' c'
+39       1        r  matched-'r'
+45       1        s  matched-'e'
+0        0        p  
+25       1        n  matched-'o'
+19       1           matched-'d'
+4        2        e  matched-'on'
+0        0        -  
+58       1        o  matched-'t'
+3        1        o  matched-'-'
+7        2           matched-'ne'
+28       1        i  matched-'w'
+59       1        h  matched-'t'
+60       1        A  matched-' '
+0        0        S  
+0        0        C  
+0        0        I  
+1        1        ,  matched-'I'
+63       1        a  matched-' '
+32       2           matched-'re'
+60       1        n  matched-'e'
+52       4        d  matched-'code'
+64       1        u  matched-' '
+42       1        i  matched-'s'
+63       1        g  matched-'n'
+18       2           matched-' a'
+7        4        l  matched-'sing'
+39       2        b  matched-'e '
+0        0        y  
+48       1        e  matched-'t'
+44       6        t  matched-' with '
+47       1        e  matched-'h'
+21       2        a  matched-' s'
+0        0        m  
+19       3        i  matched-'e b'
+63       1        a  matched-'n'
+49       1        y  matched-'r'
+60       1        v  matched-' '
+54       1        l  matched-'a'
+44       1        e  matched-'u'
+59       2        s  matched-' a'
+62       1        A  matched-' '
+0        0        S  
+0        0        C  
+0        0        I  
+1        1        ,  matched-'I'
+49       2        o  matched-' s'
+35       3        a  matched-' th'
+46       1           matched-'t'
+24       3        i  matched-'val'
+0        0        d  
+21       6           matched-' ASCII'
+60       2        x  matched-'te'
+17       2        i  matched-'t '
+35       2        v  matched-'s '
+20       5        U  matched-'alid '
+0        0        T  
+0        0        F  
+0        0        -  
+0        0        8  
+2        1        e  matched-'-'
+62       1        c  matched-'n'
+42       1        d  matched-'o'
+57       1        d  matched-'e'
+14       2        n  matched-' U'
+39       1        c  matched-'i'
+9        3           matched-'ode'
+51       1        s  matched-'a'
+59       1        w  matched-' '
+39       1        l  matched-'e'
+52       1        .  matched-'l'
+0        0        
+  
+31       5           matched-'UTF-8'
+12       1        a  matched-'w'
+47       2        d  matched-'s '
+55       1        s  matched-'e'
+53       1        g  matched-'i'
+39       1        e  matched-'n'
+50       2        a  matched-'d '
+59       2        a  matched-'s '
+64       1        s  matched-' '
+0        0        u  
+0        0        p  
+52       1        r  matched-'e'
+63       1        o  matched-'i'
+3        1           matched-'r'
+42       1        l  matched-'a'
+0        0        t  
+9        2        n  matched-'er'
+48       1        t  matched-'a'
+56       1        v  matched-'i'
+54       2        t  matched-'e '
+59       1           matched-'o'
+48       4        1  matched-'UTF-'
+0        0        ,  
+33       3        p  matched-' a '
+30       1        o  matched-'r'
+34       1        o  matched-'p'
+54       1        e  matched-'s'
+47       2        v  matched-'d '
+60       1        r  matched-'a'
+56       1        a  matched-'i'
+0        0        b  
+38       1        e  matched-'l'
+23       1        l  matched-'-'
+60       1        n  matched-'e'
+64       1        t  matched-'g'
+0        0        h  
+63       1        e  matched-' '
+45       1        c  matched-'n'
+55       1        d  matched-'o'
+58       1        n  matched-'i'
+11       1           matched-'g'
+0        0        w  
+63       1        t  matched-'i'
+14       2        p  matched-'h '
+30       2        t  matched-'ar'
+31       2        l  matched-'ia'
+59       1        A  matched-' '
+0        0        S  
+0        0        C  
+0        0        I  
+1        1           matched-'I'
+26       2        m  matched-'co'
+17       2        t  matched-'pa'
+47       1        b  matched-'i'
+49       1        l  matched-'i'
+28       2        y  matched-'it'
+33       2        h  matched-' w'
+57       1        c  matched-'i'
+48       2        l  matched-'h '
+64       1        c  matched-'a'
+0        0        k  
+61       1        d  matched-'e'
+55       1        s  matched-' '
+27       2        e  matched-'om'
+60       1        f  matched-' '
+61       1        a  matched-'e'
+52       1        u  matched-'t'
+49       1        e  matched-'r'
+12       1           matched-'s'
+64       2        c  matched-'in'
+52       1        u  matched-'l'
+21       1        i  matched-'d'
+6        1        g  matched-'n'
+24       2        e  matched-' s'
+61       1        f  matched-'l'
+0        0        -  
+29       1        y  matched-'s'
+16       2        h  matched-'nc'
+24       1        o  matched-'r'
+21       1        i  matched-'n'
+0        0        z  
+62       3        o  matched-'ati'
+28       1           matched-'n'
+51       1        n  matched-'a'
+49       2        f  matched-'d '
+41       1        l  matched-'u'
+59       1        y  matched-'l'
+62       1        A  matched-' '
+0        0        S  
+0        0        C  
+0        0        I  
+1        1        -  matched-'I'
+45       1        o  matched-'c'
+61       1        p  matched-'m'
+26       3        b  matched-'ati'
+52       1        e  matched-'l'
+58       1        h  matched-' '
+28       3        l  matched-'and'
+57       4        o  matched-'ing '
+55       1           matched-'f'
+52       2        a  matched-'ch'
+53       1        a  matched-'r'
+57       1        t  matched-'c'
+21       1        r  matched-'e'
+64       1           matched-'s'
+2        1        u  matched-'s'
+13       2           matched-'ch'
+61       1        s  matched-'a'
+8        2        l  matched-' s'
+5        2        h  matched-'as'
+38       1        s  matched-'e'
+0        0        .  
+63       1        K  matched-' '
+43       1        n  matched-'e'
+61       1        T  matched-' '
+45       1        o  matched-'h'
+56       2        s  matched-'mp'
+60       1        n  matched-'o'
+25       2        n  matched-' a'
+52       1           matched-'d'
+0        0        R  
+49       1        b  matched-'o'
+61       1        P  matched-' '
+57       1        k  matched-'i'
+45       1           matched-'e'
+18       1        r  matched-'p'
+59       1        d  matched-'o'
+46       2        e  matched-'uc'
+18       2        t  matched-'d '
+41       2           matched-'he'
+0        0        f  
+18       1        r  matched-'i'
+61       1        t  matched-'s'
+62       1        i  matched-' '
+39       2        l  matched-'mp'
+53       1        m  matched-'e'
+50       2        t  matched-'en'
+61       1        t  matched-'a'
+34       1        o  matched-'i'
+56       2        f  matched-'n '
+55       1        r  matched-'o'
+29       5        P  matched-' the '
+21       1        a  matched-'l'
+60       2        9  matched-'n '
+62       1        o  matched-' '
+50       1        e  matched-'p'
+51       1        a  matched-'r'
+25       2        n  matched-'ti'
+0        0        g  
+64       1        s  matched-' '
+0        0        y  
+45       2        e  matched-'st'
+44       1           matched-'m'
+11       2           matched-'in'
+0        0        S  
+64       1        p  matched-'e'
+10       3        b  matched-'tem'
+25       2           matched-'er'
+0        0        1  
+33       1        9  matched-'9'
+0        0        2  
+0        0        .  
+0        0        [  
+3        1        ]  matched-'2'
+3        1        3  matched-'['
+3        1           matched-']'
+0        0        T  
+53       1        i  matched-'h'
+35       1           matched-'s'
+53       1        e  matched-'l'
+0        0        d  
+62       2        o  matched-' t'
+37       2        t  matched-' i'
+11       2        a  matched-'s '
+10       1        o  matched-'d'
+39       2        i  matched-'pt'
+64       1        n  matched-'o'
+57       1        b  matched-' '
+57       1           matched-'y'
+0        0        X  
+0        0        /  
+0        0        O  
+51       1        e  matched-'p'
+57       2        a  matched-'n '
+33       2        i  matched-'s '
+26       3        s  matched-'ts '
+12       2        c  matched-'pe'
+44       1        f  matched-'i'
+46       1        c  matched-'i'
+34       1        t  matched-'a'
+31       4        f  matched-'ion '
+47       1        r  matched-'o'
+60       1        F  matched-' '
+0        0        S  
+1        1        -  matched-'S'
+0        0        U  
+0        0        T  
+6        1        ,  matched-'F'
+0        0        [  
+0        0        4  
+0        0        ]  
+63       1        w  matched-' '
+0        0        h  
+26       2        h  matched-'ic'
+6        2        o  matched-' w'
+0        0        u  
+0        0        l  
+0        0        d  
+28       2        i  matched-' f'
+28       1        s  matched-'r'
+49       1           matched-'t'
+0        0        b  
+59       1           matched-'e'
+40       1        f  matched-'o'
+48       3        i  matched-'fic'
+64       1        l  matched-'a'
+20       1        y  matched-'l'
+62       1        p  matched-' '
+47       1        e  matched-'r'
+20       1        e  matched-'s'
+55       1        t  matched-'n'
+20       1        d  matched-'e'
+58       1        a  matched-' '
+27       2        U  matched-'t '
+57       1        E  matched-'S'
+0        0        N  
+0        0        I  
+0        0        X  
+64       1        i  matched-' '
+16       1           matched-'n'
+0        0        J  
+29       1        n  matched-'a'
+50       1        a  matched-'u'
+46       1        y  matched-'r'
+63       1        1  matched-' '
+0        0        9  
+1        1        3  matched-'9'
+0        0        [  
+0        0        5  
+0        0        ]  
+29       2        n  matched-' a'
+63       2        s  matched-'d '
+18       1        b  matched-'u'
+43       2        q  matched-'se'
+23       1        e  matched-'u'
+46       2        l  matched-'nt'
+56       2        a  matched-'y '
+49       1        o  matched-'d'
+59       1        t  matched-'p'
+54       3        b  matched-'ed '
+36       2        t  matched-'y '
+0        0        h  
+62       1           matched-'e'
+54       1        n  matched-'I'
+13       2        r  matched-'te'
+55       1        e  matched-'n'
+26       1           matched-'t'
+0        0        E  
+60       1        g  matched-'n'
+63       2        e  matched-'in'
+12       2        i  matched-'er'
+8        2           matched-'ng'
+0        0        T  
+54       1        s  matched-'a'
+0        0        k  
+58       1        F  matched-' '
+40       1        r  matched-'o'
+0        0        c  
+32       2        (  matched-'e '
+33       1        E  matched-'I'
+14       1        F  matched-'T'
+0        0        )  
+54       1        i  matched-' '
+60       1           matched-'n'
+0        0        R  
+17       1        C  matched-'F'
+61       1        2  matched-' '
+1        1        7  matched-'2'
+1        1           matched-'7'
+19       1        B  matched-'('
+9        1        P  matched-'C'
+63       1        1  matched-' '
+0        0        8  
+21       1        [  matched-')'
+0        0        6  
+0        0        ]  
+63       1        f  matched-' '
+37       2           matched-'or'
+4        1        u  matched-'f'
+62       1        u  matched-'t'
+55       1        e  matched-'r'
+35       3        t  matched-' in'
+62       2        n  matched-'er'
+50       1        t  matched-'e'
+62       1        s  matched-' '
+15       1        a  matched-'t'
+46       1        d  matched-'n'
+3        1        r  matched-'a'
+3        1        s  matched-'d'
+61       1        w  matched-' '
+30       2        k  matched-'or'
+0        0        ,  
+60       1        r  matched-' '
+28       1        p  matched-'e'
+0        0        l  
+18       1        c  matched-'a'
+31       2        g  matched-'in'
+63       1        S  matched-' '
+5        3        l  matched-'ing'
+42       2        B  matched-'e '
+0        0        y  
+42       2           matched-'te'
+0        0        C  
+0        0        h  
+35       2        a  matched-'ar'
+22       1        t  matched-'c'
+51       2           matched-'er'
+22       1        e  matched-'S'
+64       1        s  matched-'t'
+53       2        u  matched-' s'
+34       1        h  matched-'c'
+58       1        a  matched-' '
+51       2        L  matched-'s '
+60       1        t  matched-'a'
+42       2        -  matched-'in'
+0        0        1  
+59       1        i  matched-' '
+47       1           matched-'n'
+61       1        l  matched-'o'
+0        0        d  
+30       3        R  matched-'er '
+0        0        F  
+42       1        s  matched-'C'
+0        0        .  
+0        0        
+  
+0        0        U  
+0        0        T  
+7        1        -  matched-'F'
+0        0        8  
+21       2        s  matched-' i'
+60       1        t  matched-' '
+55       1        e  matched-'h'
+64       1        d  matched-' '
+26       1        m  matched-'o'
+36       2        a  matched-'in'
+38       1        t  matched-'n'
+58       1        e  matched-' '
+42       1        c  matched-'n'
+37       1        d  matched-'o'
+47       2        g  matched-'in'
+62       1        f  matched-' '
+44       1        r  matched-'o'
+26       5        W  matched-' the '
+8        2        l  matched-'or'
+53       1           matched-'d'
+6        1        i  matched-'W'
+57       2           matched-'de'
+11       1        e  matched-'W'
+0        0        b  
+60       1        (  matched-' '
+37       2        d  matched-'an'
+53       2        n  matched-' i'
+52       1        e  matched-'t'
+30       1        n  matched-'r'
+54       1        t  matched-'e'
+59       2        e  matched-' t'
+46       1        h  matched-'c'
+55       1        o  matched-'n'
+32       1        o  matched-'l'
+47       1        i  matched-'g'
+56       1        s  matched-'e'
+0        0        )  
+0        0        ,  
+61       1        a  matched-' '
+60       1        c  matched-'c'
+61       1        u  matched-'o'
+28       2        i  matched-'nt'
+63       7        9  matched-'ng for '
+0        0        7  
+0        0        .  
+0        0        8  
+0        0        %  
+59       1        o  matched-' '
+11       1           matched-'f'
+52       1        l  matched-'a'
+35       1           matched-'l'
+0        0        w  
+61       3        p  matched-'eb '
+61       1        g  matched-'a'
+40       2        ,  matched-'es'
+18       2        v  matched-' o'
+62       2           matched-'er'
+29       1        9  matched-'9'
+29       1        0  matched-'.'
+29       5        t  matched-'% of '
+0        0        h  
+60       1           matched-'e'
+51       1        o  matched-'t'
+27       1           matched-'p'
+0        0        1  
+15       1        ,  matched-'0'
+17       1        0  matched-'0'
+19       1           matched-'0'
+36       7        a  matched-'pages, '
+0        0        n  
+0        0        d  
+64       1        u  matched-' '
+21       2        t  matched-'p '
+62       1           matched-'o'
+24       2        0  matched-'10'
+42       4        f  matched-'.0% '
+54       1        r  matched-'o'
+64       1        m  matched-' '
+22       2        y  matched-'an'
+62       1        l  matched-' '
+27       2        g  matched-'an'
+26       1        a  matched-'u'
+37       6        s  matched-'ges, a'
+62       1        o  matched-' '
+24       1           matched-'f'
+0        0        2  
+57       1        2  matched-'0'
+0        0        3  
+34       1        [  matched-'.'
+0        0        7  
+0        0        ]  
+59       1        V  matched-' '
+0        0        i  
+35       1        t  matched-'r'
+26       2        l  matched-'ua'
+33       1        y  matched-'l'
+62       2        l  matched-' a'
+38       1           matched-'l'
+0        0        c  
+59       1        u  matched-'o'
+46       1        t  matched-'n'
+52       1        i  matched-'r'
+40       2           matched-'es'
+54       2        d  matched-'an'
+54       10          matched-' languages'
+0        0        h  
+64       1        v  matched-'a'
+60       1           matched-'e'
+0        0        9  
+0        0        5  
+50       1        0  matched-'.'
+0        0        %  
+61       2        r  matched-' o'
+64       1        m  matched-' '
+4        2        e  matched-'or'
+57       1        u  matched-' '
+36       1        e  matched-'s'
+12       2        f  matched-' o'
+64       1        U  matched-' '
+0        0        T  
+0        0        F  
+0        0        -  
+0        0        8  
+60       1        e  matched-' '
+54       1        c  matched-'n'
+58       1        d  matched-'o'
+55       1        n  matched-'i'
+46       1        s  matched-'g'
+31       2        n  matched-' o'
+59       1        t  matched-' '
+46       1        e  matched-'h'
+63       1        w  matched-' '
+53       1        b  matched-'e'
+0        0        .  
