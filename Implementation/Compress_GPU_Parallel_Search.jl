@@ -35,7 +35,7 @@ function Compress_GPU_Parallel_Search(option_input,search_buffer_length)#(input,
 
     match_data_zeros = Array{UInt64}(undef,window_length)
     fill!(match_data_zeros,0)
-    global target=1    #position of character in string
+    target=1    #position of character in string
 
     option=UInt8(option_input)     #1 is for 12-bit, Max 4095  
     # option=UInt8(2)     #2 is for 16-bit, Max 65535
@@ -65,7 +65,7 @@ function Compress_GPU_Parallel_Search(option_input,search_buffer_length)#(input,
     # write(stream2,@sprintf "%d\n%-8d %-8d %s" option 0 0 input[target])
 
     target+=1
-    global current_search_buffer_length=1
+    current_search_buffer_length=1
     match_data_d=CuArray{eltype(match_data_zeros)}(match_data_zeros)
 
     while target <= length_input_d
@@ -108,7 +108,7 @@ function Compress_GPU_Parallel_Search(option_input,search_buffer_length)#(input,
         # end
         target+=1
         if (current_search_buffer_length<search_buffer_length)
-            global current_search_buffer_length+=max_match_length+1
+            current_search_buffer_length+=max_match_length+1
             if(current_search_buffer_length>search_buffer_length)
                 current_search_buffer_length=search_buffer_length
             end
